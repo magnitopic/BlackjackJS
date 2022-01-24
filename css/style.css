@@ -1,0 +1,62 @@
+#canvas {
+	background-color: cadetblue;
+	background-position: center;
+	background-image: url('../imagenes/fondoBJ.jpg');
+	background-size: cover;
+  }
+  
+  #title {
+	text-align: center;
+	margin: 5px;
+	font-weight: bold;
+	font-size: 2em;
+  }
+  
+  #canvasDiv {
+	text-align: center;
+  }
+  
+  #botones {
+	margin: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+  }
+  
+  #info {
+	text-align: center;
+	font-size: 1.2em;
+	margin: 20px;
+  }
+  
+  .button {
+	background-color: #00bbd0;
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 10px;
+	cursor: pointer;
+  }
+  
+  #canvas {
+	border-radius: 10px;
+  }
+  
+  #reset {
+	visibility: hidden;
+	background-color: #15bb1a;
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 10px;
+	cursor: pointer;
+  }
+  
