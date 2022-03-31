@@ -1,15 +1,17 @@
-# Blackjack en Java Script
+# Java Script Blackjack
 
-Juego Blackjack usando HTML5, CSS y JS.
+Blackjack game made using HTML, CSS and JS
 
-Muestro las cartas en un canvas de HTML5 y cada carta es un objeto JS.
+Cards are a JS class and shown in a HTML5 canvas.
 
-## Fuente de imagenes
+## Image source
 
-Las imagenes usadas para las cartas vienen de wikipedia: [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_playing_cards)
+The card images are from Wikipedia: [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_playing_cards)
 
 # Video
 
-Para entender el codigo hay un video explicativo en YouTube:
+I have a video up on YouTube explaning the program:
+
+**_Note:_** Video is in Spanish
 
 [![Video](imagenes/juegoFinal.png)](https://youtu.be/lbXRRl1SwXA)
